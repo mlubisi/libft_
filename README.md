@@ -1,2 +1,2 @@
 # libft_
-recreating some c library functions (WTC_ project)
+recoding functions from the standard C library, (WTC_ project)
